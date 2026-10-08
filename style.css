@@ -5,6 +5,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.enlace a{
+    text-decoration: none;
+    color:black;
+}
+
+.enlace a:hover{
+    color:grey;
+}
 
 .contenedor {
     max-width: 1200px;       
@@ -13,18 +21,8 @@ body {
     background-color: white;  
     padding: 20px;
     box-sizing: border-box;
-    /*border: 3px solid #000000;  */
 }
-.contenedor-abajo{   
-    display: flex;      
-    align-items:center;  
-    justify-content:space-around;
-    background-color: white;
-    width:100%;
-    padding:20px;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-}
+
 
 header {
     background-color: #a2e8a2;  
