@@ -10,7 +10,7 @@ body {
     max-width: 1200px;          
     width: 100%;
     margin: 0 auto;             
-    background-color: #ffffff;  
+    background-color: white;  
     padding: 20px;
     box-sizing: border-box;
     border: 3px solid #000000;  
@@ -47,7 +47,7 @@ main {
 }
 
 /* Ajustes de las cajas de la izquierda */
-.columna-izquierda section {
+/*.columna-izquierda section {
     background-color: #a2e8a2;
     padding: 20px;
     border: 2px solid #000000;
